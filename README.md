@@ -8,6 +8,7 @@
   </a>
 
   <h3 align="center">Chatbot Using Tensorflow Keras</h3>
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
